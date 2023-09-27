@@ -1,0 +1,90 @@
+
+@font-face {
+    font-family:'fonttitulo';
+    src: url(super_boys/Super\ Boys.ttf);
+}
+
+
+*{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ .titulo_pagina{
+    font-family:'fonttitulo' ;
+    text-align: center;
+    color: rgb(247, 230, 230);
+    font-size: 80px
+
+ }
+ body{
+    background-color: #949494;
+ }
+
+
+ #links{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 0px;
+    margin-left: 80%;
+    border-style: solid;
+    border-width: 1.5px;
+    width: 215px;
+    height: 30px;
+    border-radius: 50px;
+    border-color: rgb(247, 230, 230);
+ }
+
+                
+
+.h1news{
+    font-family: "fonttitulo";
+    font-size: 50px;
+    color: rgb(218, 212, 212) ;
+    margin-left: 39%;
+    margin-bottom: 0;
+
+}
+
+#imgpqt{
+    width: 350px;
+    margin-left: 27%;
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 1.5px;
+    color: rgb(247, 230, 230);
+}
+
+.paqueta{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 18%;
+    color:rgb(29, 29, 29)  ;
+    font-size: 19px;
+}
+
+.h1news2{
+    font-family: "fonttitulo";
+    font-size: 50px;
+    color: rgb(218, 212, 212) ;
+    text-align: center;
+    /* margin-left: 50%; */
+    font-size: 50px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#art1{
+    columns: 2;
+    column-gap: 5px;
+    height: 95%;
+}
+
+#imgney{
+    width: 350px;
+    margin-left: 22%;
+    /* margin-top: 180px; */
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 1.5px;
+    color: rgb(247, 230, 230); 
+}
